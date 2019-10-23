@@ -1,4 +1,4 @@
-<h1>Tambah User</h1>
+<h1>Tambah Uwong</h1>
 <form action="/tambah/post" method="POST">
 {{csrf_field()}}
 	<div>
